@@ -1,0 +1,4 @@
+displayName = Reboot Mod: Fargo's Compatibility Patch
+author = Prisma
+modReferences = RebootVan, FargowiltasSouls
+version = 1
